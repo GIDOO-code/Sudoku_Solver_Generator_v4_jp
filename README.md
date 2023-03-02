@@ -1,45 +1,21 @@
-# A major renovation will be completed soon !
-　　Scheduled for the end of April 2023. A beta version will be released soon.
-  
-
-
-
 # Sudoku_Solver_Generator
-![GNPX](/images/GNPX_start.png)
- 
-Sudoku analysis and generation C# program.
-The only algorithm used is non-backtracking.  
-The algorithm used is  
+![GNPX](/images/GNPX_start.PNG)
+
+数独の問題を 解く・作る C#プログラムです。
+解析アルゴリズムは、全て論理的手法で、バックトラックは使いません。
+以下のアルゴリズムを実装しています。  
+
 >Single, LockedCandidate, (hidden)LockedSet(2D-7D),
-  (Finned)(Franken/Mutant/Kraken)Fish(2D-7D),
-  Skyscraper, EmptyRectangle, XY-Wing, W-Wing, RemotePair, XChain, XYChain,
-  SueDeCoq, (Multi)Coloring,
-  ALS-Wing, ALS-XZ, ALS-Chain,
- (ALS)DeathBlossom(Ext.), (Grouped)NiceLoop, ForceChain and GeneralLogic.<br>
-There are also functions for transposed transformation of Sudoku problems, standardization and ordering of Sudoku problems.  
+ (Finned)(Franken/Mutant/Kraken)Fish(2D-7D),
+ Skyscraper, EmptyRectangle, XY-Wing, W-Wing, RemotePair, XChain, XYChain,
+ SueDeCoq, (Multi)Coloring,
+ ALS-Wing, ALS-XZ, ALS-Chain,
+ (ALS)DeathBlossom(Ext.), (Grouped)NiceLoop, ForceChain and
+ GeneralLogic.
 
-The algorithm is explained on the HTML page.  
-https://gidoo-code.github.io/Sudoku_Solver_Generator_v4/<br>
-https://gidoo-code.github.io/Sudoku_Solver_Generator_v4_jp/
+プログラム機能として、単解析、複数解析、数独問題作成（数独のパターン、レベル指定が可能）、問題の変換・数独問題の標準化ができます。
 
-
-
-# For simple version:
-
-  You can change from the regular version to the simplified version.
-  For consistency with the regular version, there are some unnecessary but unchanged parts.
-
-
-## How to change the version ( Regular version -> Simple version )
-
-    (1) Remove "RegularVersion" from the conditional compilation symbol field.
-
-    (2) Exclude the source files in the folder with "nnEx" in the name from the project.
-        - There are four folders to exclude. (00Ex,21Ex,23Ex,25Ex)
-        - Exclude, not delete. So that it can be restored.
-        - Exclude the files in the folder, not the folder.
-
-    (3) It can also be undone( Simple version -> Regular version ).   Do try!
-        - Set "RegularVersion" to the conditional compilation symbol field.
-        - Add files to the "nnEx" folders.
-        - Don't forget to add both .xaml and .cs to 00Ex. 
+## ダウンロード、日本語化
+プログラムは、環境に応じて（または手動で）英語と日本語に切り替わります。
+ソースコード（VSプロジェクト）は、英語版 WEB ページからダウンロードしてください。  
+https://github.com/GIDOO-code/Sudoku_Solver_Generator
