@@ -1,5 +1,5 @@
 # Sudoku_Solver_Generator_v4 beta
-  準備中　
+  準備中(20230230)
 
 # Sudoku_Solver_Generator
 ![GNPX](/images/GNPX_start.png)
