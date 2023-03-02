@@ -18,4 +18,4 @@
 ## ダウンロード、日本語化
 プログラムは、環境に応じて（または手動で）英語と日本語に切り替わります。
 ソースコード（VSプロジェクト）は、英語版 WEB ページからダウンロードしてください。  
-https://github.com/GIDOO-code/Sudoku_Solver_Generator
+https://github.com/GIDOO-code/Sudoku_Solver_Generator_v4
