@@ -1,0 +1,88 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>数独 アルゴリズム</title>
+
+    <link rel="stylesheet" href='css/style_Header.css'>
+	<link rel="stylesheet" href="css/style_StandardEng.css">
+	<link rel="stylesheet" href="css/screen.css">
+
+	<script type="text/javascript" src="js/naviAlgorithm.js"> </script>
+	<script type="text/javascript" src="js/naviHeader3.js"> </script>
+	<script type="text/javascript" src="js/naviHeader.js"> </script>
+	<script type="text/javascript" src="js/naviAlgorithm.js"> </script>
+
+</head>
+
+<body id="page">
+    <header> <strong><i>Sudoku Algorithm 4</i></strong> </header>
+    <script type="text/javascript">	writeNaviHeader(); </script>
+
+    <section id="main" style="margin-left: 10px; margin-right: 10px; width:95%">
+    	<article><br>
+            <h3>●ここでは</h3>
+            <img class="imgL" src="images/imgTop/Img01a.png" width="250">
+            <p> 数独の解析アルゴリズムを解説します。<br>
+				数独は、紙と鉛筆で遊ぶもので、私も趣味として楽しんでいます。
+				鉛筆と知力だけで解き、全ての数字が埋まったときの達成感は格別です。<br>
+				しかし、ここで扱うのはヒトが鉛筆と知力で数独を解くことの解説ではありません。
+				C#プログラムで数独を解くことを目的とします。
+				これも、また別の数独の楽しみ方です。<br><br>
+
+				この問題は、ヒトが鉛筆と知力だけで解くのは極めて困難だと思います。腕自慢の上級の方も試みない方がよいでしょう。身のためです。これはプログラムで扱う問題です。</p>
+        	<p class="newLine">6..2....1.8.9.4.2...9.1.3...9.8.1.35..3...7..45.3.7.6...7.4.2...6.7.9.1.9....2..3</p>
+        </article>
+            
+        <article>
+            <h3>●解き方のルール</h3>
+            <img class="imgR" src="images/imgTop/Img01b.png" width="250">
+            <p> 
+                ”数独の行・列・ブロック毎に1-9の数字を入れる”というルールは同じです。<br>
+                プログラムで数独を解く場合の、解き方にルールを設けます。<br>
+                ”あるセルに数字を入れてみて失敗したらその数字は偽である” のいわゆる背理法は禁じます。
+                これを認めるのは「サル・・・」と同じで、何ら知的でなく、つまらないではないですか。
+                このサイトで扱うのは、論理的に解くアルゴリズムです。なお、これはローカルルールです。
+                異なる意見があることは承知しています。<br><br>
+				左上の数独の解(数字配列）はこの通りです。でも、それはここでのルールの解ではありません。
+				解を求める論理的な説明が必要です。				
+            </p>
+         </article><br><br>
+		
+         <article>
+            <h3>▽若干のお断り</h3>
+            <p>本サイトで紹介するのは、数独の問題を解く解析アルゴリズムです。
+                これらを理解し、それなりのコードを補えば数独を解くプログラムも組み立てられます。
+                一番良いのは、プログラム例を参考にご自身のコードを作ることです。プログラム例はGNPXで用いているものですが、バグフィックス、改良、単なる気分で、(しばしば）変更します。
+                このため、全体の統一性がいずれ崩れると思います。なにより自分流を貫く方が、発展形のアルゴリズムを開発し、組み込むうえでもよいでしょう。<br>
+                &quot;C#で数独を作る&quot;に関しては、直接には解説していません。
+                ラテン方陣の作り方（ソース込みのプロジェクトあり）と、解析アルゴリズムを組合わせるだけのことです。<br>
+                プレゼントを用意しました。ひとつは、ここで紹介している手法の<strong>Winアプリケーション<span class="auto-style1">GNPX</span></strong>です。 
+                プログラムを構成するのに参考になるでしょう。もう一つは、<strong><span class="auto-style2">VisualStudioのプロジェクト（C#）</span></strong>です。
+
+            </p>
+
+            
+            
+            <img src="images/imgTop/download_image.png" width="48">
+            <a href="page17.html">GNPXダウンロード</a><span class="auto-style3"></span>
+            <P><strong><span class="auto-style1"></span>2023年2月(予定）に大幅な改修が完成します(ver.4.0)。</span></strong>
+                <br>(補足)
+                <br>HP上のコードは更新しません。”参考”程度の扱いです。最新版は Github/GIDOO-code のファイルです。</p>
+            
+        </article>
+
+    </section>
+
+<p style="float:right">
+<script language="javascript" type="text/javascript" src="http://counter1.fc2.com/counter.php?id=25054403&main=1"></script><noscript><img src="http://counter1.fc2.com/counter_img.php?id=25054403&main=1" /></noscript>
+
+
+    <footer>
+
+        <p id="copyright"> Copyright &copy; 2014-  GNPX. All rights reserved.</p>
+    </footer>
+      
+
+</body>
+</html>

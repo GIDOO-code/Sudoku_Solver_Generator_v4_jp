@@ -1,0 +1,114 @@
+<!doctype html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title>数独 ALS XZ</title>
+	
+	<link href="google-code-prettify/prettify.css" rel="stylesheet" type="text/css" >
+	<script src="google-code-prettify/prettify.js" type="text/javascript"> </script>
+	
+	<script type="text/javascript" src="lib/jquery.js" ></script>
+	<script type="text/javascript" src="lib/jquery.cookie.js"></script>
+	<script type="text/javascript" src="js/jquery.treeview.js"></script>
+	<script type="text/javascript" src="js/treeView.js"></script>
+	
+	<script type="text/javascript" src="js/naviHeader.js"> </script>
+	<script type="text/javascript" src="js/naviAlgorithm.js"> </script>
+	
+	<link rel="stylesheet" href="css/jquery.treeview.css">
+	<link rel="stylesheet" href="css/screen.css">
+
+	<link rel="stylesheet" href="css/style_StandardEng.css">
+    <link rel="stylesheet" href='css/style_Header.css'>
+</head>
+
+<body id="page" onload="prettyPrint()">
+	<header> <strong><i>Sudoku Algorithm 4</i></strong>	</header>
+    <script type="text/javascript"> writeNaviHeader(); </script>
+	
+<!-- ========================================================================== -->
+<section id="menuList">
+	<aside>	<script type="text/javascript"> writeNaviAlgorithm(); </script>	</aside>
+</section>
+<!-- -------------------------------------------------------------------------- -->
+
+    <section id="main">
+        <article><br>
+            <h4>●ALS XZ</h4>		   
+            <p>複数のALSを用いる解析アルゴリズムでは、RCC(Restricted Common Candidate:制限された共通候補）を使います。
+                <a href="page26.html"><strong>ALSとRCC</strong></a>を十分に理解してください。<br>
+                ここでは、ALS XZの2つのタイプ(Singly Linked、Doubly linked)を示します。<br>
+                ALSを用いる解析アルゴリズムの特徴として、ALSが利用できる場面では、多くの場合に同時に多数の解が存在します。
+                また、ALS系の他の解析アルゴリズム解も存在します。ALS XZでもその性質があります。
+            </P>
+                
+            <h4>(1)ALS XZ(Singly Linked)</h4>
+            <p>2つのALSがRCC(数字x)を持つとします。また、RCCとは異なり両ALSに含まれる数字をzとします。
+                &quot;ALS外で、両ALS内の全てのｚと関係する&quot;位置にあるｚは、候補から除外できます。
+                このzが真だと両方のALSをLockedSetに変えてしまい、両方のALSにRCCが含まれるからです。
+                <img src="images/img50/img50a.png" >
+            </p>
+        
+            <h4>(2)ALS XZ(Doubly Linked)</h4>
+            <p>2つのALSが2つのRCC(数字xy)を持つとします。このとき、
+                <ol>
+                    <li>&quot;ALS外でRCCと同じhouseに属す&quot;RCC数字は除外できます。
+                        一方のRCC（たとえばx）についてこれが真だと、2つのALSはLockedSetになり、他方のRCC(y)は両方のALSに入ることになります。</li><br>
+                        
+                    <li>一方のALSの要素数字z(RCCとは異なる）について、&quot;ALS外にあって、ALS内の全てのzと関係する&quot;
+                        位置にあるｚは候補数字から除外できます。
+                        これが真だとそのALSはLockedSetになり2つRCCはともにこのALSに属します。他方のALSでは&quot;n個のセルにn-1個の候補数字&quot;となり、ALSは破綻します。</li>
+                </ol>
+                ALS XZ Doubly Linkedは強力な解析アルゴリズムで多数の候補数字を除外できますが、適用できる頻度は少ないようです。
+                <img src="images/img50/img50b.png" >
+            </p>
+        
+            <p>ALS XZの例です。</p>
+            <p>
+                <img src="images/img50/img50_10.png" width="250" style="float:left;  margin-right:8px;">
+                <strong>ALS-XZ (Singly Linked)</strong><br>
+                ALS1: r2c46  #567<br>
+                ALS2: r3c24  #156<br>
+                RCC: #5<br></p>
+            <p style="clear: both" ><br></p>
+
+            <p>
+                <img src="images/img50/img50_11.png" width="250" style="float:left;  margin-right:8px;">
+                <strong>ALS-XZ (Singly Linked)</strong><br>
+                    ALS1: r1c59  #469<br>
+                    ALS2: r5c2357  #12369<br>
+                    RCC: #6<br></p>
+            <p style="clear: both" ><br></p>
+
+            <p>
+                <img src="images/img50/img50_12.png" width="250" style="float:left;  margin-right:8px;">
+                <strong>ALS-XZ (Doubly Linked)</strong><br>
+                    ALS1: r349c3  #1569<br>
+                    ALS2: r1c3459  #12356<br>
+                    RCC: #15<br></p>
+            <p style="clear: both" ><br></p>
+
+            <p>
+                <img src="images/img50/img50_13.png" width="250" style="float:left;  margin-right:8px;">
+                <strong>ALS-XZ (Doubly Linked)</strong><br>
+                    ALS1: r25c7  #289<br>
+                    ALS2: r7c89 r89c7 r9c9  #256789<br>
+                    RCC: #28<br></p>
+            <p style="clear: both" ><br></p>
+            <p class="newLine"><br>
+                2.548...9.9..3..2...7.923.4..8.....2541...6879.....1..4.961.2...8..7..9.7...584.6<br>
+                .2...783..47.2...13..1....7....38.15...5.4...58.79....6....2..82...8.57..793...6.<br>
+                87........9.81.65....79...8.....67316..5.1..97124.....3...57....57.48.1........74<br>
+                .9..4..6.4..15...2..6..91....4....7.36.....15.8....3....82..4..9...34..1.4..8..3.<br>
+            </p>
+        </article>
+    </section>
+
+<!-- ========================================================================== -->
+	<footer>
+		<p id="copyright">Copyright &copy; 2014- GNPX. All rights reserved.</p>
+	</footer>
+
+</body>
+</html>
