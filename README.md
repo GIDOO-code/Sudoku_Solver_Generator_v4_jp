@@ -1,5 +1,5 @@
 # Sudoku_Solver_Generator_v4 beta
-  アップしました(20230230)。安定までには、しばらくかかります。
+  アップしました(20230230)。安定までには、しばらくかかります。５月頃、再度訪れてください。
 
 # Sudoku_Solver_Generator
 ![GNPX](/images/GNPX_start.png)
