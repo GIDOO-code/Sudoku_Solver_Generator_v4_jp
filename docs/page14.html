@@ -51,7 +51,7 @@
     <section id="main">     
     	<article>
     		<a id="lattinSquare"></a> 
-            <h4>●ラテン方陣</h4>
+            <h2>●ラテン方陣</h2>
             <img src="images/imgTop/download_image.png" width="48">
 			<a href="download/LatinSquareExer.zip" download="LatinSquareExer.zip">LatinSquareExer.zip download</a><br>
   
@@ -116,7 +116,19 @@
 				実際に数えあげます。興味のある方は、先の文献をみるとよいでしょう。<br>
 				また、数独解析プログラムを持っている方は、このルーテインとつなげれば問題作成プログラムが作れます。
 			</p>
-			<img src="images/img14/latin4.jpg" width="400px"> 
+			<img src="images/img14/latin4.jpg" width="500px"> <br><br>
+
+
+			<h2>●数独生成アプリへの組み込みのためのTips</h2>
+			<p>ステップ１～４でブロック制約付きのラテン方陣は生成できます。これにマスクをかけて、以下のような数独の問題になります。
+				ただし、次の図のように、元となるラテン方陣が異なるのに、マスクを適用すると同じになることがあります。
+				このように、元となるラテン方陣が２つ以上ある場合は、数独の問題にはなりません。
+				同一のラテン方陣の割合は、マスクの数が少ないほど高くなります（20～50%）<br>
+				数独の解析・生成アプリ"GNPX"では、唯一のラテン方陣から作られた候補のみを対象としています。
+			</p>
+			<img src="images/img14/img14d.png" width="500">
+			<p newline>ラテン方陣（左）にマスク（中央）を適用すると、数独の問題となる。この例では赤丸箇所が異なる。</p>
+			<p class="newLine">
 		</article>
 	</section>
     
