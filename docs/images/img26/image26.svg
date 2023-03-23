@@ -24,132 +24,129 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.2938725"
-     inkscape:cx="443.6295"
-     inkscape:cy="413.87386"
-     inkscape:window-width="1871"
+     inkscape:zoom="1.829812"
+     inkscape:cx="181.4394"
+     inkscape:cy="314.51318"
+     inkscape:window-width="2105"
      inkscape:window-height="1230"
-     inkscape:window-x="1808"
-     inkscape:window-y="804"
+     inkscape:window-x="1544"
+     inkscape:window-y="367"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs17369">
-		
-		
-		
-	</defs>
+     id="defs17369" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g23220"
-       inkscape:export-filename="..\img26\img26a.png"
+    <rect
+       x="21.566517"
+       y="50.270626"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.253663"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="25.404308"
+       height="10.770611"
+       id="rect14"
+       style="stroke-dasharray:0.253663,0.253663;stroke-dashoffset:0"
+       inkscape:export-filename="img26a.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
-         x="21.594233"
-         y="50.29834"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="37.915184"
-         height="10.71518"
-         id="rect14" />
-      <rect
-         x="21.594233"
-         y="65.134781"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="37.91507"
-         height="10.71518"
-         id="rect16" />
-      <rect
-         x="21.339218"
-         y="35.248661"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="33.588161"
-         height="10.71518"
-         id="rect18" />
-      <rect
-         x="23.83127"
-         y="53.589031"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="7.4182134"
-         height="5.5636597"
-         id="rect20" />
-      <rect
-         x="35.526592"
-         y="53.589031"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="7.4182134"
-         height="5.5636597"
-         id="rect22" />
-      <rect
-         x="24.039997"
-         y="68.425461"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="7.4182134"
-         height="5.5636597"
-         id="rect24" />
-      <rect
-         x="35.735214"
-         y="68.425461"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="7.4182134"
-         height="5.5636597"
-         id="rect26" />
-      <rect
-         x="23.622658"
-         y="38.339966"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="7.4182134"
-         height="5.5636597"
-         id="rect28" />
-      <text
-         xml:space="preserve"
-         id="text3480"
-         x="44.333088"
-         y="42.467484"
-         style="font-size:1.39091px;fill:#0000bf;fill-opacity:1;stroke-width:0.11591">		 <tspan
+       inkscape:export-ydpi="96" />
+    <rect
+       x="21.566517"
+       y="65.107063"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.253663"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="25.404308"
+       height="10.77061"
+       id="rect16"
+       style="stroke-dasharray:0.253663,0.253663;stroke-dashoffset:0" />
+    <rect
+       x="21.309143"
+       y="35.218586"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.248942"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="21.665739"
+       height="10.775331"
+       id="rect18"
+       style="stroke-dasharray:0.248942,0.248942;stroke-dashoffset:0" />
+    <rect
+       x="23.83127"
+       y="53.589031"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="7.4182134"
+       height="5.5636597"
+       id="rect20" />
+    <rect
+       x="35.526592"
+       y="53.589031"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="7.4182134"
+       height="5.5636597"
+       id="rect22" />
+    <rect
+       x="24.039997"
+       y="68.425461"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="7.4182134"
+       height="5.5636597"
+       id="rect24" />
+    <rect
+       x="35.735214"
+       y="68.425461"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="7.4182134"
+       height="5.5636597"
+       id="rect26" />
+    <rect
+       x="23.622658"
+       y="38.339966"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="7.4182134"
+       height="5.5636597"
+       id="rect28" />
+    <text
+       xml:space="preserve"
+       id="text3480"
+       x="44.333088"
+       y="42.467484"
+       style="font-size:1.39091px;fill:#0000bf;fill-opacity:1;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ';fill:#0000bf;fill-opacity:1"
    letter-spacing="0em"
    fill="#000000"
@@ -157,12 +154,12 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3478">x</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text3484"
-         x="23.681089"
-         y="57.303925"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text3484"
+       x="23.681089"
+       y="57.303925"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -170,12 +167,12 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3482">xy</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text3488"
-         x="34.808418"
-         y="57.303925"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text3488"
+       x="34.279251"
+       y="57.303925"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -183,12 +180,12 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3486">xyz</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text3492"
-         x="48.394581"
-         y="57.159328"
-         style="font-size:1.39091px;fill:#0000bf;fill-opacity:1;stroke-width:0.11591">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text3492"
+       x="48.394581"
+       y="57.159328"
+       style="font-size:1.39091px;fill:#0000bf;fill-opacity:1;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ';fill:#0000bf;fill-opacity:1"
    letter-spacing="0em"
    fill="#000000"
@@ -196,12 +193,12 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3490">x</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text3496"
-         x="23.681089"
-         y="72.140343"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text3496"
+       x="22.622755"
+       y="72.140343"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -209,12 +206,12 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3494">xyz</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text3500"
-         x="34.808418"
-         y="72.140343"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text3500"
+       x="34.279251"
+       y="72.140343"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -222,12 +219,12 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3498">xyz</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text3504"
-         x="49.403698"
-         y="72.068047"
-         style="font-size:1.39091px;fill:#0000bf;fill-opacity:1;stroke-width:0.11591">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text3504"
+       x="49.403698"
+       y="72.068047"
+       style="font-size:1.39091px;fill:#0000bf;fill-opacity:1;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ';fill:#0000bf;fill-opacity:1"
    letter-spacing="0em"
    fill="#000000"
@@ -235,36 +232,37 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3502">z</tspan>	</text>
-      <rect
-         x="21.594233"
-         y="79.971207"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="44.509048"
-         height="10.71518"
-         id="rect3506" />
-      <rect
-         x="24.584677"
-         y="82.849251"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="7.4182134"
-         height="5.5636597"
-         id="rect3508" />
-      <text
-         xml:space="preserve"
-         id="text3512"
-         x="23.449272"
-         y="86.744957"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <rect
+       x="21.578722"
+       y="79.955696"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.278073"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="35.919727"
+       height="10.746201"
+       id="rect3506"
+       style="stroke-dasharray:0.27807301,0.27807301;stroke-dashoffset:0" />
+    <rect
+       x="24.584677"
+       y="82.849251"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="7.4182134"
+       height="5.5636597"
+       id="rect3508" />
+    <text
+       xml:space="preserve"
+       id="text3512"
+       x="23.449272"
+       y="86.744957"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -272,24 +270,24 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3510">xyz</tspan>	</text>
-      <rect
-         x="35.573006"
-         y="82.849251"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="7.4182134"
-         height="5.5636597"
-         id="rect3514" />
-      <text
-         xml:space="preserve"
-         id="text3518"
-         x="34.576599"
-         y="86.744957"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <rect
+       x="35.573006"
+       y="82.849251"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="7.4182134"
+       height="5.5636597"
+       id="rect3514" />
+    <text
+       xml:space="preserve"
+       id="text3518"
+       x="34.047432"
+       y="86.744957"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -297,24 +295,24 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3516">uyz</tspan>	</text>
-      <rect
-         x="46.688663"
-         y="82.849251"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="7.4182134"
-         height="5.5636597"
-         id="rect3520" />
-      <text
-         xml:space="preserve"
-         id="text3524"
-         x="45.703915"
-         y="86.744957"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <rect
+       x="46.688663"
+       y="82.849251"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="7.4182134"
+       height="5.5636597"
+       id="rect3520" />
+    <text
+       xml:space="preserve"
+       id="text3524"
+       x="45.174747"
+       y="86.744957"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -322,12 +320,12 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3522">uzx</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text3528"
-         x="56.246578"
-         y="86.976768"
-         style="font-size:1.39091px;fill:#0000bf;fill-opacity:1;stroke-width:0.11591">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text3528"
+       x="58.892414"
+       y="86.976768"
+       style="font-size:1.39091px;fill:#0000bf;fill-opacity:1;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ';fill:#0000bf;fill-opacity:1"
    letter-spacing="0em"
    fill="#000000"
@@ -335,12 +333,12 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3526">z</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text3532"
-         x="23.681089"
-         y="42.467484"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text3532"
+       x="23.681089"
+       y="42.467484"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -348,144 +346,147 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3530">xy</tspan>	</text>
-      <path
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         d="m 72.633268,42.102378 v -2.778354 h 6.676392 v -1.388597 l 4.450929,2.778354 -4.450929,2.777193 v -1.388596 z"
-         id="path3534" />
-      <path
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         d="m 72.633268,71.772916 v -2.778354 h 6.676392 v -1.388597 l 4.450929,2.777193 -4.450929,2.778354 v -1.388596 z"
-         id="path3536" />
-      <path
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         d="M 72.633268,56.937641 V 54.159287 H 79.30966 V 52.77069 l 4.450929,2.777193 -4.450929,2.778354 v -1.388596 z"
-         id="path3538" />
-      <path
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         d="m 72.633268,86.608179 v -2.778354 h 6.676392 v -1.388597 l 4.450929,2.777193 -4.450929,2.778354 v -1.388596 z"
-         id="path3540" />
-      <rect
-         x="88.624733"
-         y="50.29834"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="37.91507"
-         height="10.71518"
-         id="rect3542" />
-      <rect
-         x="88.624733"
-         y="65.134781"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="37.915184"
-         height="10.71518"
-         id="rect3544" />
-      <rect
-         x="88.358154"
-         y="35.248661"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="33.588055"
-         height="10.71518"
-         id="rect3546" />
-      <rect
-         x="90.861877"
-         y="53.589031"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="7.4182134"
-         height="5.5636597"
-         id="rect3548" />
-      <rect
-         x="102.55708"
-         y="53.589031"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="7.4182134"
-         height="5.5636597"
-         id="rect3550" />
-      <rect
-         x="91.070488"
-         y="68.425461"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="7.4182134"
-         height="5.5636597"
-         id="rect3552" />
-      <rect
-         x="102.76569"
-         y="68.425461"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="7.4182134"
-         height="5.5636597"
-         id="rect3554" />
-      <rect
-         x="90.653145"
-         y="38.339966"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="7.4182134"
-         height="5.5636597"
-         id="rect3556" />
-      <text
-         xml:space="preserve"
-         id="text3560"
-         x="112.38715"
-         y="42.467484"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <path
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       d="m 72.633268,42.102378 v -2.778354 h 6.676392 v -1.388597 l 4.450929,2.778354 -4.450929,2.777193 v -1.388596 z"
+       id="path3534" />
+    <path
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       d="m 72.633268,71.772916 v -2.778354 h 6.676392 v -1.388597 l 4.450929,2.777193 -4.450929,2.778354 v -1.388596 z"
+       id="path3536" />
+    <path
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       d="M 72.633268,56.937641 V 54.159287 H 79.30966 V 52.77069 l 4.450929,2.777193 -4.450929,2.778354 v -1.388596 z"
+       id="path3538" />
+    <path
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       d="m 72.633268,86.608179 v -2.778354 h 6.676392 v -1.388597 l 4.450929,2.777193 -4.450929,2.778354 v -1.388596 z"
+       id="path3540" />
+    <rect
+       x="88.600578"
+       y="50.274181"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.260778"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="26.867073"
+       height="10.763495"
+       id="rect3542"
+       style="stroke-dasharray:0.26077801,0.26077801;stroke-dashoffset:0" />
+    <rect
+       x="88.600578"
+       y="65.110626"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.260777"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="26.867077"
+       height="10.763496"
+       id="rect3544"
+       style="stroke-dasharray:0.260777,0.260777;stroke-dashoffset:0" />
+    <rect
+       x="88.32811"
+       y="35.21862"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.249008"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="21.677227"
+       height="10.775266"
+       id="rect3546"
+       style="stroke-dasharray:0.249008,0.249008;stroke-dashoffset:0" />
+    <rect
+       x="90.861877"
+       y="53.589031"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="7.4182134"
+       height="5.5636597"
+       id="rect3548" />
+    <rect
+       x="102.55708"
+       y="53.589031"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="7.4182134"
+       height="5.5636597"
+       id="rect3550" />
+    <rect
+       x="91.070488"
+       y="68.425461"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="7.4182134"
+       height="5.5636597"
+       id="rect3552" />
+    <rect
+       x="102.76569"
+       y="68.425461"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="7.4182134"
+       height="5.5636597"
+       id="rect3554" />
+    <rect
+       x="90.653145"
+       y="38.339966"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="7.4182134"
+       height="5.5636597"
+       id="rect3556" />
+    <text
+       xml:space="preserve"
+       id="text3560"
+       x="112.38715"
+       y="42.467484"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -493,12 +494,12 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3558">x</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text3564"
-         x="92.067749"
-         y="57.303925"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text3564"
+       x="92.067749"
+       y="57.303925"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -506,12 +507,12 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3562">y</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text3568"
-         x="103.19508"
-         y="57.303925"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text3568"
+       x="103.19508"
+       y="57.303925"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -519,12 +520,12 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3566">z</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text3572"
-         x="118.76219"
-         y="57.303925"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text3572"
+       x="118.76219"
+       y="57.303925"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -532,12 +533,12 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3570">x</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text3576"
-         x="91.140465"
-         y="72.140343"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text3576"
+       x="91.140465"
+       y="72.140343"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -545,12 +546,12 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3574">xy</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text3580"
-         x="102.26778"
-         y="72.140343"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text3580"
+       x="102.26778"
+       y="72.140343"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -558,12 +559,12 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3578">xy</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text3584"
-         x="118.76219"
-         y="72.140343"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text3584"
+       x="118.76219"
+       y="72.140343"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -571,36 +572,37 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3582">z</tspan>	</text>
-      <rect
-         x="88.624733"
-         y="79.971207"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="44.509167"
-         height="10.71518"
-         id="rect3586" />
-      <rect
-         x="91.603622"
-         y="82.849251"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="7.4182134"
-         height="5.5636597"
-         id="rect3588" />
-      <text
-         xml:space="preserve"
-         id="text3592"
-         x="91.140465"
-         y="86.744957"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <rect
+       x="88.610657"
+       y="79.95713"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.280939"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="36.673798"
+       height="10.743335"
+       id="rect3586"
+       style="stroke-dasharray:0.28093901,0.28093901;stroke-dashoffset:0" />
+    <rect
+       x="91.603622"
+       y="82.849251"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="7.4182134"
+       height="5.5636597"
+       id="rect3588" />
+    <text
+       xml:space="preserve"
+       id="text3592"
+       x="91.140465"
+       y="86.744957"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -608,24 +610,24 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3590">xy</tspan>	</text>
-      <rect
-         x="102.60349"
-         y="82.849251"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="7.4182134"
-         height="5.5636597"
-         id="rect3594" />
-      <text
-         xml:space="preserve"
-         id="text3598"
-         x="102.26778"
-         y="86.744957"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <rect
+       x="102.60349"
+       y="82.849251"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="7.4182134"
+       height="5.5636597"
+       id="rect3594" />
+    <text
+       xml:space="preserve"
+       id="text3598"
+       x="102.26778"
+       y="86.744957"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -633,24 +635,24 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3596">uy</tspan>	</text>
-      <rect
-         x="113.71918"
-         y="82.849251"
-         fill="#ffffff"
-         fill-opacity="1"
-         stroke-width="0.309093"
-         stroke-linejoin="round"
-         stroke="#000000"
-         stroke-opacity="1"
-         width="7.4182134"
-         height="5.5636597"
-         id="rect3600" />
-      <text
-         xml:space="preserve"
-         id="text3604"
-         x="113.39511"
-         y="86.744957"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <rect
+       x="113.71918"
+       y="82.849251"
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke-width="0.309093"
+       stroke-linejoin="round"
+       stroke="#000000"
+       stroke-opacity="1"
+       width="7.4182134"
+       height="5.5636597"
+       id="rect3600" />
+    <text
+       xml:space="preserve"
+       id="text3604"
+       x="113.39511"
+       y="86.744957"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -658,12 +660,12 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3602">ux</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text3608"
-         x="126.18043"
-         y="86.976768"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text3608"
+       x="126.18043"
+       y="86.976768"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -671,12 +673,12 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3606">z</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text3612"
-         x="91.488205"
-         y="42.467484"
-         style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text3612"
+       x="91.488205"
+       y="42.467484"
+       style="font-size:1.39091px;stroke-width:0.11591">		 <tspan
    style="font-size:3.7091px;font-family:'メイリオ'"
    letter-spacing="0em"
    fill="#000000"
@@ -684,13 +686,13 @@
    stroke-width="0.023182"
    stroke-linejoin="round"
    id="tspan3610">y</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text22544"
-         x="47.61269"
-         y="38.597176"
-         style="font-size:1.04695px;fill:#f80000;fill-opacity:1;stroke-width:0.0872468"
-         transform="scale(0.96789982,1.0331648)">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text22544"
+       x="47.61269"
+       y="38.597176"
+       style="font-size:1.04695px;fill:#f80000;fill-opacity:1;stroke-width:0.0872468"
+       transform="scale(0.96789981,1.0331648)">		 <tspan
    style="font-size:2.79188px;font-family:'メイリオ';fill:#f80000;fill-opacity:1"
    letter-spacing="0em"
    fill="#000000"
@@ -698,13 +700,13 @@
    stroke-width="0.0174494"
    stroke-linejoin="round"
    id="tspan22542">fixed</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text23012"
-         x="51.720955"
-         y="52.66259"
-         style="font-size:1.04695px;fill:#f80000;fill-opacity:1;stroke-width:0.0872468"
-         transform="scale(0.9678998,1.0331648)">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text23012"
+       x="51.720955"
+       y="52.66259"
+       style="font-size:1.04695px;fill:#f80000;fill-opacity:1;stroke-width:0.0872468"
+       transform="scale(0.9678998,1.0331648)">		 <tspan
    style="font-size:2.79188px;font-family:'メイリオ';fill:#f80000;fill-opacity:1"
    letter-spacing="0em"
    fill="#000000"
@@ -712,13 +714,13 @@
    stroke-width="0.0174494"
    stroke-linejoin="round"
    id="tspan23010">fixed</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text23016"
-         x="52.467911"
-         y="67.077888"
-         style="font-size:1.04695px;fill:#f80000;fill-opacity:1;stroke-width:0.0872468"
-         transform="scale(0.9678998,1.0331648)">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text23016"
+       x="52.467911"
+       y="67.077888"
+       style="font-size:1.04695px;fill:#f80000;fill-opacity:1;stroke-width:0.0872468"
+       transform="scale(0.9678998,1.0331648)">		 <tspan
    style="font-size:2.79188px;font-family:'メイリオ';fill:#f80000;fill-opacity:1"
    letter-spacing="0em"
    fill="#000000"
@@ -726,13 +728,13 @@
    stroke-width="0.0174494"
    stroke-linejoin="round"
    id="tspan23014">fixed</tspan>	</text>
-      <text
-         xml:space="preserve"
-         id="text23020"
-         x="59.564003"
-         y="81.353233"
-         style="font-size:1.04695px;fill:#f80000;fill-opacity:1;stroke-width:0.0872468"
-         transform="scale(0.9678998,1.0331648)">		 <tspan
+    <text
+       xml:space="preserve"
+       id="text23020"
+       x="62.297577"
+       y="81.353233"
+       style="font-size:1.04695px;fill:#f80000;fill-opacity:1;stroke-width:0.0872468"
+       transform="scale(0.9678998,1.0331648)">		 <tspan
    style="font-size:2.79188px;font-family:'メイリオ';fill:#f80000;fill-opacity:1"
    letter-spacing="0em"
    fill="#000000"
@@ -740,31 +742,30 @@
    stroke-width="0.0174494"
    stroke-linejoin="round"
    id="tspan23018">fixed</tspan>	</text>
-      <text
-         xml:space="preserve"
-         style="font-size:5.50014px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#0000ed;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:none"
-         x="42.469025"
-         y="27.06448"
-         id="text23024"
-         transform="scale(0.80133727,1.247914)"><tspan
-           sodipodi:role="line"
-           id="tspan23022"
-           style="fill:#0000ed;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:none"
-           x="42.469025"
-           y="27.06448">ALS</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:5.50014px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#0000ed;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:none"
+    <text
+       xml:space="preserve"
+       style="font-size:5.50014px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#0000ed;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:none"
+       x="34.943344"
+       y="27.240101"
+       id="text23024"
+       transform="scale(0.80133727,1.247914)"><tspan
+         sodipodi:role="line"
+         id="tspan23022"
+         style="fill:#0000ed;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:none"
+         x="34.943344"
+         y="27.240101">ALS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.50014px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#0000ed;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:none"
+       x="117.16202"
+       y="27.06448"
+       id="text23028"
+       transform="scale(0.80133727,1.247914)"><tspan
+         sodipodi:role="line"
+         id="tspan23026"
+         style="fill:#0000ed;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:none"
          x="117.16202"
-         y="27.06448"
-         id="text23028"
-         transform="scale(0.80133727,1.247914)"><tspan
-           sodipodi:role="line"
-           id="tspan23026"
-           style="fill:#0000ed;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:none"
-           x="117.16202"
-           y="27.06448">LockedSet</tspan></text>
-    </g>
+         y="27.06448">LockedSet</tspan></text>
     <g
        id="g24863"
        inkscape:export-filename="img26b.png"
@@ -1357,5 +1358,55 @@
    stroke-width="0.0240436"
    stroke-linejoin="round"
    id="tspan3764">doubly linked</tspan>	</text>
+    <g
+       id="g1996"
+       transform="translate(42.98541,-0.01460158)">
+      <rect
+         x="24.560286"
+         y="92.742599"
+         fill="#ffffff"
+         fill-opacity="1"
+         stroke-width="0.260312"
+         stroke-linejoin="round"
+         stroke="#000000"
+         stroke-opacity="1"
+         width="6.3776345"
+         height="4.5899925"
+         id="rect1091" />
+      <text
+         xml:space="preserve"
+         id="text1879"
+         x="21.547024"
+         y="95.523354"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:9.3909;stroke-width:0.11591"
+         transform="translate(0,0.52916667)"><tspan
+           x="21.547024"
+           y="95.523354"
+           id="tspan2172">		 cell	</tspan></text>
+    </g>
+    <g
+       id="g2000"
+       transform="translate(42.98541,-0.01460158)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.222262;stroke-linecap:square;stroke-dasharray:0.222262, 0.444523;stroke-dashoffset:0;stroke-opacity:0.858044;paint-order:fill markers stroke"
+         id="rect1147"
+         width="10.986551"
+         height="4.281826"
+         x="35.436436"
+         y="93.162949" />
+      <text
+         xml:space="preserve"
+         id="text1992"
+         x="21.547024"
+         y="95.523354"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:9.3909;stroke-width:0.11591"
+         transform="translate(15.084991,-2.7829833)"><tspan
+           x="21.547024"
+           y="95.523354"
+           id="tspan2174">		</tspan><tspan
+           x="21.547024"
+           y="99.051131"
+           id="tspan2176">house	</tspan></text>
+    </g>
   </g>
 </svg>

@@ -43,6 +43,9 @@
 			なお、この項は<a href="http://www.sudokuone.com/sweb/general.htm">
 			<strong>A General Logic for Sudoku</strong></a>(www.sudokuone.com/sweb/general.htm) に基づいています。</p>
 		
+
+
+
 			<h4><span class="auto-style1">〇</span><strong><span class="auto-style2">弱いリンク</span></strong></h4>	
 			<p>generalLogicの基本は<a href="page25.html">弱いリンク</a>です。<br>
 			Fishは行・列の弱いリンクで構成する解法アルゴリズムです。数独では行・列以外にもブロックの制約条件があり、Franken/Mutant Fishは行・列・ブロックで構成する解法アルゴリズムです。
@@ -51,10 +54,13 @@
 			（なお、強いリンクは弱いリンクに含まれます。）</p>
 			
 			<p>
-				<img src="images/img60/weakLinkEng.png" style="float:center" height="200" width="400">
+				<img src="images/img60/weakLink.png" style="float:center" height="200" width="400">
 			</p>	
 
 			<h4><span class="auto-style1">〇</span><strong><span class="auto-style2">BaseSetとCoverSet、ランク</span></strong></h4>
+			
+			
+			
 			<p>
 			【<strong>BaseSet</strong>】n個の弱いリンクを重なりがないように選びます。このn個の弱いリンク群を<strong>BaseSet</strong>と呼びます（<strong>n-BaseSet</strong>)。
 			各々の弱いリンクには1つづつ真があり、<strong>BaseSet</strong>全体でn個の真があります。<br><br>
@@ -66,6 +72,8 @@
 			<strong>BaseSet/CoverSetのランク=m-n</strong><br><br>
 			</p>
 
+
+
 			<h4><span class="auto-style1">〇</span><strong><span class="auto-style2">General Logic</span></strong></h4>	
 			<p>(1)ランク0<br>
 			<strong>n-CoverSet</strong>が<strong>n-BaseSet</strong>を完全にカバーするとき、<strong>CoverSet-BaseSet</strong>（差集合）のセル・数字は真ではありません
@@ -76,17 +84,20 @@
 			次の図は最も単純なFishの <strong>BaseSet</strong>(列)と<strong>CoverSet</strong>(行) です。	 
 			<strong>BaseSet</strong>と<strong>CoverSet</strong>、<strong>BaseSet-CoverSet</strong>(差)、<strong>BaseSet∩CoverSet</strong>(共通)を確認してください。
 			なお、<strong>BaseSet-CoverSet</strong>は1要素に限りません。複数個あってもそれらすべてが除外できます。<br></p>
-			<img src="images/img60/BCSet1Eng.png" height="200" ><br><br>
+			<img src="images/img60/BCSet1.png" height="200" ><br><br>
 			
+
+
 			<p>(1)ランク1<br>n-BaseSetを(n+1)-CoverSetでカバーするケースを考えます。<br>n-BaseSetをカバーするCoverSetの選び方には自由度があります。
 			解析アルゴリズムとするためには、次の条件が成立する必要があります。<br>条件1:(n+1)-CoverSetは、n-BaseSetを完全にカバーしている。<br>
 			条件2:(n+1)-CoverSetの(n+1)個の弱いリンクのうち2つには共通部分があり、かつn-BaseSetに含まれない要素(共通部分のセル・数字)がある。<br>
 			これらの条件を満たすとき、条件2の共通部分の要素は真ではありません。<br>
 			<br>共通部分の”要素Xは真”と仮定します。<br>要素XはBasesetに含まれず、かつCoverSetの2つの弱いリンクに含まれているので、BaseSetの真を含むCoverSetの弱いリンクは（n-1）個となります。
 			BaseSetの真が足りなくなるので、最初の仮定が誤りです。</p><br>	
-			<img src="images/img60/BCSet2Eng.png" height="200" ><br><br>
+			<img src="images/img60/BCSet2a.png" height="200" ><br><br>
+			<img src="images/img60/BCSet2b.png" height="200" ><br><br>
 			<p>次は、BaseSetがセルのランク1の例です。</p>
-			<img src="images/img60/BCSet3Eng.png" height="200" style="float: center" ><br><br>
+			<img src="images/img60/BCSet3.png" height="200" style="float: center" ><br><br>
 
 			
 			<p>(2)ランクk(k≧1）<br>n-BaseSetを(n+k)-CoverSetでカバーするケースを考えます。<br>考え方はランク1と同じです。
@@ -97,7 +108,7 @@
 			BaseSetの真が足りなくなるので、最初の仮定が誤りです。</p>
 			<br>
 			
-			<img src="images/img60/BCSet4Eng.png" height="200"><br><br>
+			<img src="images/img60/BCSet4.png" height="200"><br><br>
 			
 			<h4>〇<strong>General Logic のプログラムコード</strong></h4>
 			<p>General Logicプログラムコードは、<a href="page17.html">GNPX proj数独解析アプリ ソース・プロジェクト</a> にあります。ダウンロードしてください。
