@@ -70,7 +70,7 @@ ForceChain_ContradictionEx
 *Cell True
 *GroupedCells True
 *ALS True
-*ForceLx ForceL3
+*ForceLx ForceL1
 *ShowProofMultiPaths False
 *GeneralLogic_on False
 *GenLogMaxSize 3

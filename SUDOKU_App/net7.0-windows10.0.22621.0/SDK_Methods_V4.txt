@@ -1,7 +1,7 @@
 ﻿LastDigit
 NakedSingle
 HiddenSingle
--GeneralLogicEx
+GeneralLogicEx
 LockedCandidate
 LockedSet(2D)
 LockedSet(2D)Hidden
@@ -50,12 +50,12 @@ Franken/MutantFish
 Finned Franken/Mutant Fish
 NiceLoop
 GroupedNiceLoopEx
-EndoFinned F/M Fish
-Finned EndoFinned F/M Fish
-Cannibalistic F/M Fish
-FinnedCannibalistic F/M Fish
-Kraken FishEx
-Kraken FinnedFishEx
+-EndoFinned F/M Fish
+-Finned EndoFinned F/M Fish
+-Cannibalistic F/M Fish
+-FinnedCannibalistic F/M Fish
+-Kraken FishEx
+-Kraken FinnedFishEx
 ForceChain_CellEx
 ForceChain_HouseEx
 ForceChain_ContradictionEx

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9bwUnU0jw18qIWlJ0rwJKa7Kvu75BKTy2BJ86nL2BS2g6XZEm6RheD08zj17Hry2JU1t/blBnRes7GotyXhK7A==",
+  "success": true,
+  "projectFilePath": "E:\\◆◆数独集合体\\Git GNPXv4\\Sudoku_Solver_Generator_v4_jp\\SUDOKUcore\\SUDOKU_Proj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gkats\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.28\\microsoft.windows.sdk.net.ref.10.0.22621.28.nupkg.sha512"
+  ],
+  "logs": []
+}
